@@ -1,4 +1,4 @@
 # Головин Сергей
-###Мои домашки 
+### Мои домашки 
 
-[Урок №7](gsa21076.github.io/project 7/src) - первый сайт на bootstrap
+[Урок №7](https://gsa21076.github.io/project%207/src/ "Bootstrap") - Первый сайт на bootstrap
