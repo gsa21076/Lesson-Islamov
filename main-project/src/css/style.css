@@ -168,8 +168,11 @@ section {
     padding-bottom: 4rem;
   }
 }
-@media (max-width: 749px) {
+@media (max-width: 767px) {
   .header {
-    margin-bottom: 3rem;
+    text-align: center;
+  }
+  .wrap-block {
+    text-align: center;
   }
 }
