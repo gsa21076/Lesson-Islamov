@@ -24,6 +24,16 @@ body {
   font-size: 10px;
   font-family: 'ProximaNova_Reg', sans-serif;
 }
+/* Отключение обводки  */
+button:focus,
+input:focus,
+a:focus {
+  outline: none;
+}
+/* Отключение подчеркивания ссылки  */
+a:hover {
+  text-decoration: none;
+}
 .button {
   font-size: 1.2rem;
   padding: 1rem 3rem;
@@ -32,6 +42,12 @@ body {
   color: #ffffff;
   border-radius: 8px;
   border: none;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: #d99903;
 }
 /* Typographics */
 section {
@@ -71,6 +87,7 @@ section {
   margin-top: 8rem;
 }
 .main-content h1 {
+  margin-top: 0;
   font-family: 'ProximaNova_Bold', sans-serif;
   line-height: 1.45;
   text-transform: uppercase;
@@ -136,4 +153,23 @@ section {
 }
 .main-form small {
   font-size: 1.2rem;
+}
+@media (max-width: 991px) {
+  .main {
+    background-position: top right;
+  }
+  .phone-block {
+    text-align: center;
+  }
+  .main-content {
+    text-align: center;
+  }
+  .main-title {
+    padding-bottom: 4rem;
+  }
+}
+@media (max-width: 749px) {
+  .header {
+    margin-bottom: 3rem;
+  }
 }
