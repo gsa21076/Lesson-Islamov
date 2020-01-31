@@ -7,6 +7,7 @@
 [Урок №19](https://gsa21076.github.io/main-project/src/ "main 5/2") - подключение шрифтов и верстка первого экрана  
 [Урок №15](https://gsa21076.github.io/project-15/ "hover") - псевдоэлементы и псевдоклассы  
 [Урок №21](https://gsa21076.github.io/main-project/src/ "main 5/3") - адаптив первого экрана  
+[Урок №16](https://gsa21076.github.io/project-16/ "Slider") - Сладер на сайте
 
 
 
