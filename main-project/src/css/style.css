@@ -53,6 +53,13 @@ a:hover {
 section {
   padding: 10rem 0;
 }
+/* Заголовок */
+.section-header {
+  text-align: center;
+  margin: 2rem 0 10rem;
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-size: 3.6rem;
+}
 .header {
   height: 7rem;
 }
@@ -153,6 +160,53 @@ section {
 }
 .main-form small {
   font-size: 1.2rem;
+}
+/* Оформление блока с преимуществами */
+/* Преимущества */
+.features-block {
+  text-align: center;
+}
+.features-block h3 {
+  font-family: 'ProximaNova_Bold', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+}
+.features-block p {
+  font-size: 1.4rem;
+  display: inline-block;
+  width: 80%;
+}
+.features-img {
+  height: 8rem;
+  margin-bottom: 3rem;
+}
+.features-img img {
+  display: block;
+  margin: 0 auto 2rem;
+}
+/* Отключение обводки активного слайда */
+.slick-active {
+  outline: none;
+}
+.arrow {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  z-index: 99;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+}
+.prev {
+  left: 0;
+  background: url(../img/left-arrow.svg) center no-repeat;
+  background-size: 100%;
+}
+.next {
+  right: 0;
+  background: url(../img/right-arrow.svg) center no-repeat;
+  background-size: 100%;
 }
 @media (max-width: 991px) {
   .main {

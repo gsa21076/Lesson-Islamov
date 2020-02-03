@@ -77,6 +77,15 @@ a:hover{
 section{
 	padding: 10rem 0;
 }
+/* Заголовок */
+ .section-header{
+	 text-align: center;
+ 	margin: 2rem 0 10rem;
+
+ 	.bold();
+ 	font-size: 3.6rem;
+ }
+
 
 
 //  Шапка сайта
@@ -151,7 +160,7 @@ section{
 		display: block;
 		text-transform: uppercase;
 		font-size: 2.2rem;
-		.bold()
+		.bold();
 	}
 	// Главная форма
 	&-form{
@@ -194,6 +203,59 @@ section{
  	}
 	}
 }
+
+/* Оформление блока с преимуществами */
+
+
+/* Преимущества */
+.features {
+	&-block{
+		text-align: center;
+		h3{
+			.bold();
+			font-size: 2rem;
+			margin-bottom: 3rem;
+		}
+		p{
+			font-size: 1.4rem;
+			display: inline-block;
+			width: 80%;
+		}
+	 }
+	&-img {
+		height: 8rem;
+		margin-bottom: 3rem;
+	img{
+  display: block;
+  margin: 0 auto 2rem;
+   }
+	 }
+	}
+	/* Отключение обводки активного слайда */
+	.slick-active{
+		outline: none;
+	}
+	.arrow{
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		z-index: 99;
+		width: 2rem;
+		height: 2rem;
+		border: none;
+	}
+	.prev{
+			left: 0;
+			background: url(../img/left-arrow.svg) center no-repeat;
+	  background-size: 100%;
+		}
+	.next{
+			right: 0;
+			background: url(../img/right-arrow.svg) center no-repeat;
+			background-size: 100%;
+		}
+	
+
 
 @media (max-width: 991px) {
 	.main{
