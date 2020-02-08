@@ -10,7 +10,7 @@
 [Урок №16](https://gsa21076.github.io/project-16/src/ "Slider") - Сладер на сайте  
 [Урок №23](https://gsa21076.github.io/main-project/src/ "main 5/4") - адаптив первого слайдера  
 [Урок №17](https://gsa21076.github.io/bootstrap/ "Modal-window") - Модальные окна  
-[Урок №25](https://gsa21076.github.io/lesson-islamov/main-project/src/src/ "main 5/5") - модальное окно Получить консультацию
+[Урок №25](https://gsa21076.github.io/src/ "main 5/5") - модальное окно Получить консультацию
 
 
 
