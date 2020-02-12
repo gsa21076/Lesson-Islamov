@@ -12,7 +12,7 @@
 [Урок №17](https://gsa21076.github.io/bootstrap/ "Modal-window") - Модальные окна  
 [Урок №25](https://gsa21076.github.io/src/ "main 5/5") - модальное окно Получить консультацию  
 [Урок №18](https://gsa21076.github.io/bootstrap/ "tab") - ТАБы  
-[Урок №18](https://lesson-islamov.github.io/bootstrap/ "accordion") - Аккордионы  
+[Урок №18](https://lesson-islamov.github.io/ "accordion") - Аккордионы  
 
 
 
