@@ -13,6 +13,7 @@
 [Урок №25](https://gsa21076.github.io/src/ "main 5/5") - модальное окно Получить консультацию  
 [Урок №18](https://gsa21076.github.io/bootstrap/ "tab") - ТАБы  
 [Урок №18](https://lesson-islamov.github.io/ "accordion") - Аккордионы  
+Урок №26](https://gsa21076.github.io/main-project/ "main 5/6") - Третья секция - ЦЕНЫ 
 
 
 
